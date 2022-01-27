@@ -5,6 +5,8 @@ navbar:
   left:
     - text: "Home"
       href: index.html
+    - text: "Click me!" 
+      href: test.html
   right:
     - text: "Github"
       icon: fa-github
