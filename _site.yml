@@ -7,6 +7,8 @@ navbar:
       href: index.html
     - text: "Click me!" 
       href: test.html
+    - text: "Elephant"
+      href: elephant.html 
   right:
     - text: "Github"
       icon: fa-github
