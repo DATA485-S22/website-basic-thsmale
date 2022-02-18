@@ -2,6 +2,8 @@
 title: "Hello There"
 ---
 
-Welcome to my website! 
+Welcome to my website!
 
-Here you can see all the awesome projects I'm working on. 
+Here you can see all the awesome projects I'm working on.
+
+Yo What up G!
